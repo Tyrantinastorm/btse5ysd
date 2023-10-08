@@ -7,6 +7,13 @@ up_key = keyboard_check(vk_up);
 xspd = (right_key - left_key) * move_spd;
 yspd = (down_key - up_key) * move_spd;
 
+x+=xspd;
+y+=yspd;
+
+sprite_index=sprite[face];
+
+//animate
+
 
 if place_meeting(x+xspd, y, Obj_wall ) == true
 	{
@@ -16,14 +23,7 @@ if place_meeting(x, y+yspd, Obj_wall ) == true
 	{
 		yspd=0;
 	}
-//collisions
-
-
-
-
-
-x +=xspd;
-y +=yspd;
+if xspd == 0 && yspd == 0 {image_index=0};
 if yspd == 0
 {
 if xspd > 0 {face=RIGHT};
@@ -38,8 +38,9 @@ if yspd < 0 {face=UP};
 }
 if yspd > 0 && face == UP {face=DOWN};
 if yspd < 0 && face == DOWN {face=UP};
-sprite_index=sprite[face];
 
-//animate
-if xspd == 0 && yspd == 0 {image_index=0};
+
+
+
+
 

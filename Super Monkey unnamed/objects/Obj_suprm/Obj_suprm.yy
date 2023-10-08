@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "Monke_walkdorward",
+    "path": "sprites/Monke_walkdorward/Monke_walkdorward.yy",
   },
   "spriteMaskId": null,
   "visible": true,

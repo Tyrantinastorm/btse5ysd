@@ -17,8 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Monke_right_walk","order":6,"path":"sprites/Monke_right_walk/Monke_right_walk.yy",},
     {"name":"Obj_wall","order":1,"path":"objects/Obj_wall/Obj_wall.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"monkey_walk_left","order":4,"path":"sprites/monkey_walk_left/monkey_walk_left.yy",},
+    {"name":"Mokeyleftidle","order":5,"path":"sprites/Mokeyleftidle/Mokeyleftidle.yy",},
     {"name":"Sprite3","order":16,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"monke_idle","order":3,"path":"sprites/monke_idle/monke_idle.yy",},
+    {"name":"Sprit8","order":7,"path":"sprites/Sprit8/Sprit8.yy",},
   ],
 }

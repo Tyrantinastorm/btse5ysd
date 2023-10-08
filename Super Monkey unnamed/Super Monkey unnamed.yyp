@@ -34,11 +34,17 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"Monke_right_walk","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},
     {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"Monke_walkdorward","path":"sprites/Monke_walkdorward/Monke_walkdorward.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"monkey_walk_left","path":"sprites/monkey_walk_left/monkey_walk_left.yy",},},
+    {"id":{"name":"Mokeyleftidle","path":"sprites/Mokeyleftidle/Mokeyleftidle.yy",},},
     {"id":{"name":"Obj_suprm","path":"objects/Obj_suprm/Obj_suprm.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"monke_idle","path":"sprites/monke_idle/monke_idle.yy",},},
+    {"id":{"name":"Sprit8","path":"sprites/Sprit8/Sprit8.yy",},},
+    {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

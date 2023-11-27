@@ -14,8 +14,8 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6e95f1b8-8042-44e2-b75c-542ac803594c",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14729e64-a72a-40ee-967f-751feaff82bd",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8b7e4727-cc95-42e6-96db-020fe0aa8a53",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14729e64-a72a-40ee-967f-751feaff82bd",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ed14f0e7-4d0c-4d72-82b0-428a7035af36",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e9ad4eec-805d-4bf5-aca7-dfd28f69e7ec",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f571ac8d-f037-439a-a64e-c4ada2b18e53",},
@@ -32,8 +32,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Right",
+    "path": "folders/Sprites/Tile Sets/superm/movement/Right.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -62,8 +62,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6e95f1b8-8042-44e2-b75c-542ac803594c","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"4d275d3a-c85a-4e21-837a-e7dd44c1b9cd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"14729e64-a72a-40ee-967f-751feaff82bd","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"a18b3b6b-1ebe-4ae1-adc9-6edf1cf7141a","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8b7e4727-cc95-42e6-96db-020fe0aa8a53","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"9092e1e2-0199-41e4-a53c-9dd6d1e7089b","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8b7e4727-cc95-42e6-96db-020fe0aa8a53","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"9092e1e2-0199-41e4-a53c-9dd6d1e7089b","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"14729e64-a72a-40ee-967f-751feaff82bd","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"a18b3b6b-1ebe-4ae1-adc9-6edf1cf7141a","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ed14f0e7-4d0c-4d72-82b0-428a7035af36","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"63d72cee-9dd3-4f58-bcd1-ffeba708fe8c","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e9ad4eec-805d-4bf5-aca7-dfd28f69e7ec","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"fde6ab30-3727-4e57-9348-5f6fe2d6d757","IsCreationKey":false,"Key":4.0,"Length":1.0,"Stretch":false,},
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f571ac8d-f037-439a-a64e-c4ada2b18e53","path":"sprites/Monke_right_walk/Monke_right_walk.yy",},},},"Disabled":false,"id":"00a0a092-5404-4243-9356-4b42dbd864cb","IsCreationKey":false,"Key":5.0,"Length":1.0,"Stretch":false,},
